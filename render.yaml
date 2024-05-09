@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: rennderu
+    name: github-io
     env: python
     region: Oregon
     plan: free
